@@ -1,0 +1,69 @@
+
+.bat-1,
+.bat-2 {
+    color: white; 
+    font-size: 17px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+.bat-1 {
+background-color: #4452FE;
+padding: 20px 40px;
+border: none;
+}
+.bat-1:hover {
+    background-color: #0d168b;
+}
+
+.bat-2 {
+    background: transparent;
+    border: 1px solid white;
+    padding: 19px 40px;
+}
+.bat-2:hover {
+    color: gray;
+    border-color: gray;
+}
+
+.header-button {
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.button-first {
+    margin-right: 35px;
+}
+
+
+.active {
+    margin-bottom: 57px;
+    
+}
+
+
+/* .bat-1 {
+    color: white; 
+    font-size: 17px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+.bat-1 {
+    background-color: transparent;
+    padding: 0 40px;
+    border: 1px solid white;
+    height: 65px;
+    box-sizing: border-box;
+}
+
+
+.active {
+    background-color: #4452FE;
+    border: 0;
+}
+
+.active:hover {
+    background-color: #0d168b;
+} */
